@@ -2,3 +2,6 @@
 __pycache__
 test.py
 .ipynb_checkpoints
+a.out
+get_prob_win
+force
